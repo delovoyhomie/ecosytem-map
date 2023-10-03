@@ -466,7 +466,7 @@
 | hitvpnbot     | [Telegram](https://t.me/hitvpnbot)          |                                        |                                             |                                   |
 | Plume Proxy   | [Telegram](https://t.me/plumeproxy_bot)     |                                        |                                             |                                   |
 | NETZ.RUN VPN  | [Telegram](https://t.me/netzrun_bot)        |                                        |                                             |                                   |
-| Tako VPN      | [Telegram](https://ton.app/vpn/takovpn-bot) |                                        |                                             |                                   |
+| Tako VPN      | [Telegram](https://t.me/tako_vpn_bot)       |                                        |                                             |                                   |
 
 ## Gambling and Skill-based games
 
